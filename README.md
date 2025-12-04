@@ -52,9 +52,14 @@ The resulting report highlights **key recommendations** to strengthen warehouse 
 - Pandas / Excel for report generation
 
 ---
+🔹 Conclusion
 
+Warehouses are increasingly digital, and network security is just as important as physical security.
+A comprehensive warehouse network audit ensures operations remain efficient, secure, and resilient against cyber threats.
+---
+#CyberSecurity 🔐 #WarehouseManagement 📦 #NetworkSecurity 🌐 #Audit 🛡️ #IoT 📡 #SupplyChain 🚚 #Logistics ⚙️ #BusinessContinuity 🔄 #ITSecurity 💻
 ## 🔹 Suggested Folder Structure
-
+```
 WarehouseNetworkAudit/
 │
 ├── scripts/ # Python scripts for automation and scanning
@@ -63,9 +68,3 @@ WarehouseNetworkAudit/
 ├── README.md # Project overview and guidelines
 └── requirements.txt # Python dependencies
 ---
-🔹 Conclusion
-
-Warehouses are increasingly digital, and network security is just as important as physical security.
-A comprehensive warehouse network audit ensures operations remain efficient, secure, and resilient against cyber threats.
----
-#CyberSecurity 🔐 #WarehouseManagement 📦 #NetworkSecurity 🌐 #Audit 🛡️ #IoT 📡 #SupplyChain 🚚 #Logistics ⚙️ #BusinessContinuity 🔄 #ITSecurity 💻
