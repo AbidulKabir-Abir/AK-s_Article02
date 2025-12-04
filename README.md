@@ -67,4 +67,3 @@ WarehouseNetworkAudit/
 ├── data/ # Sample logs or CSVs
 ├── README.md # Project overview and guidelines
 └── requirements.txt # Python dependencies
----
